@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ユメミ",
+  "base_artist": "r-906",
+  "createdAt": "2026-03-09T11:56:27.780462Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ユメミ",
+      "artist": "r-906",
+      "has_synced": false,
+      "path": "select/pl_01_ユメミ_r-906.txt"
+    }
+  ]
+}
